@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/UserGrid/static/css/main.d0a7a0ef.css",
+    "main.js": "/UserGrid/static/js/main.ffd1111a.js",
+    "static/js/787.ebcfa7be.chunk.js": "/UserGrid/static/js/787.ebcfa7be.chunk.js",
+    "index.html": "/UserGrid/index.html",
+    "main.d0a7a0ef.css.map": "/UserGrid/static/css/main.d0a7a0ef.css.map",
+    "main.ffd1111a.js.map": "/UserGrid/static/js/main.ffd1111a.js.map",
+    "787.ebcfa7be.chunk.js.map": "/UserGrid/static/js/787.ebcfa7be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0a7a0ef.css",
+    "static/js/main.ffd1111a.js"
+  ]
+}
