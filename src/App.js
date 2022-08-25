@@ -28,7 +28,7 @@ function App() {
     <>
       {inp ? (
         <header className="head">
-          <h1>Let's Grow More Web Development Internship Task - 4</h1>
+          <h1>Let's Grow More Web Development Internship Beginner Level Task-2</h1>
           <button className="button" onClick={getInp}>Get Users</button>
         </header>
       ) : (
