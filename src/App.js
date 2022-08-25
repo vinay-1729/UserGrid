@@ -1,7 +1,6 @@
 import {useState } from "react";
 import "./App.css";
 
-
 function App() {
   const [inp, setInp] = useState(true);
   const [users, setUsers] = useState({});
@@ -25,10 +24,10 @@ function App() {
   };
 
   return (
-    <>
+    <div className="main">
       {inp ? (
         <header className="head">
-          <h1>Let's Grow More Web Development Internship Beginner Level Task-2</h1>
+          <h1>Let's Grow More Beginner Level Task-2</h1>
           <button className="button" onClick={getInp}>Get Users</button>
         </header>
       ) : (
@@ -50,7 +49,7 @@ function App() {
           )}
         </>
       )}
-    </>
+    </div>
   );
 }
 
